@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d6978cb417c6c40bf77a232bec1896, type: 3}
+  m_Name: AttackMarkersConfigs
+  m_EditorClassIdentifier: 
+  jumpMarkerSize: 3
+  jumpMarkerDamage: 20
+  rayMarkerLength: 8
+  rayMarkerWidth: 2
+  rayMarkerDamage: 30
+  bossClowdMarkerSize: 8
+  bossClowdMarkerSpeed: 2
+  bossClowdMarkerLifetime: 6
+  bossClowdMarkerSlowing: 0.5
+  bossClowdEffectTimer: 3
+  bossPondMarkerSize: 18
+  bossPondMarkerDamage: 10
+  bossRayMarkerLength: 60
+  bossRayMarkerWidth: 7
+  bossRayMarkerDamage: 10
+  bossSingleConeMarkerLength: 8
+  bossSingleConeMarkerWidth: 5
+  bossConeMarkerDamage: 15
+  bossMultyConeMarkerLength: 25
+  bossMultyConeMarkerWidth: 10
+  bossMultyConeMarkerDamage: 20

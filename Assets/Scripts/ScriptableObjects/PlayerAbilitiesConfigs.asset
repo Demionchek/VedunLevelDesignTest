@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5535c33b1f71224faab151f95be643e, type: 3}
+  m_Name: PlayerAbilitiesConfigs
+  m_EditorClassIdentifier: 
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  axeThrowDmg: 5
+  axeThrowCooldown: 1.5
+  airAtackDamage: 30
+  airAtackCost: 25
+  airAtackCooldown: 15
+  airAtackRange: 5
+  mightyPunchDamage: 10
+  mightyPunchCost: 5
+  mightyPunchCooldown: 5
+  mightyPunchRange: 3
+  mightyPunchForce: 6
+  dashTime: 0.1
+  dashSpeed: 20
+  dashCost: 5
+  dashCooldown: 2
